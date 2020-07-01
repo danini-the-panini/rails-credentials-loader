@@ -42,3 +42,7 @@ Webpack loader for injecting Rails credentials into JavaScript.
    ```javascript
    const SOME_API_KEY = "ABCD123";
    ```
+
+## ⚠️ WARNING ⚠️
+
+Be *very* careful with how you use this. Anything you reference *will* become unencrypted in the resulting JavaScript pack that gets sent to the user's browser. Make sure you *only* reference values that are safe to be out in the open.
