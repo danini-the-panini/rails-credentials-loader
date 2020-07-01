@@ -1,0 +1,10 @@
+{
+  "name": "rails-credentials-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for injecting Rails credentials into JavaScript",
+  "main": "index.js",
+  "repository": "https://github.com/jellymann/rails-credentials-loader.git",
+  "author": "Daniel Smith <jellymann@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
