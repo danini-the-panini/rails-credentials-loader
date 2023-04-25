@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "yaml": "^1.10.0"
+    "yaml": "^2.2.2"
   }
 }
